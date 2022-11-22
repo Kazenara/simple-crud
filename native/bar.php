@@ -9,7 +9,7 @@
         }
 
         #chart-container {
-            width: 100%;
+            widthgfhjgf: 100%;
             height: auto;
         }
     </style>
