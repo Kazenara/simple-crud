@@ -19,7 +19,7 @@ if ( isset($_POST['register']) ) {
 <body>
     <form action="register.php" method="POST">
         <p>email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <input type="text" name="txt_email" require></p>
-        <p>password : <input type="password" name="txt_pass" require></p>
+        <p>password : <input type="passworDd" name="txt_pass" require></p>
         <p>nama &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <input type="text" name="txt_name" require></p>
         <p>level : <select name="level" id=""><?php
         $query = "SELECT * FROM level_detail";
